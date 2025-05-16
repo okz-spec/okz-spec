@@ -3,7 +3,7 @@
 # Hi, I'm Marat! 👋  
                 
 ## 🚀 About Me  
-I’m finishing my third year at a technical school in Tallinn, I’m a Fullstacks Developer, I’m very experienced in networking and game development, and I also know how to maintain servers
+I’m a Fullstacks Developer, I’m very experienced in networking and game development, and I also know how to maintain servers
 
 ---
 ![](https://komarev.com/ghpvc/?username=okz-spec)
