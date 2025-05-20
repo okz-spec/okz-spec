@@ -6,7 +6,7 @@
 I’m a Fullstacks Developer, I’m very experienced in networking and game development, and I also know how to maintain servers
 
 ![something](https://komarev.com/ghpvc/?username=okz-spec)
-![wakatime](https://wakatime.com/badge/user/ae191a44-f921-47d4-8583-31afa14fc636.svg)](https://wakatime.com/@ae191a44-f921-47d4-8583-31afa14fc636)
+[![wakatime](https://wakatime.com/badge/user/ae191a44-f921-47d4-8583-31afa14fc636.svg)](https://wakatime.com/@ae191a44-f921-47d4-8583-31afa14fc636)
 
 ## 🔗 Links  
 [![discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/746655806606540910)
