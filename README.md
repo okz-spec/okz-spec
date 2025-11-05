@@ -71,12 +71,4 @@ Status: Building cool stuff...
 [✓] All systems operational
 ```
 
----
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│ "Code is poetry written in logic"                           │
-│                                        - okz.exe            │
-└─────────────────────────────────────────────────────────────┘
-```
 > █ TERMINAL READY
