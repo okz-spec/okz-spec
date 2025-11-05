@@ -1,16 +1,83 @@
-## Hi there 👋
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ▒█████  ▒█░▄▀ ▒███████▒  ▒███████▒                        ║
+║  ▒██▒  ██▒▒█▀▄░ ▒ ▒ ▒ ▄▀░  ▒ ▒ ▒ ▄▀░                        ║
+║  ▒██░  ██▒░█░▒█ ░ ▒ ▄▀▒░   ░ ▒ ▄▀▒░                         ║
+║  ▒██   ██░░▀▄▄▀   ▄▀▒   ░    ▄▀▒   ░                        ║
+║  ░ ████▓▒░▒█░   ▒███████▒  ▒███████▒                        ║
+║  ░ ▒░▒░▒░ ░▒░   ░▒▒ ▓░▒░▒  ░▒▒ ▓░▒░▒                        ║
+║    ░ ▒ ▒░ ░░    ░░▒ ▒ ░ ▒  ░░▒ ▒ ░ ▒                        ║
+║  ░ ░ ░ ▒   ░    ░ ░ ░ ░ ░  ░ ░ ░ ░ ░                        ║
+║      ░ ░             ░ ░        ░ ░                          ║
+║                    ░          ░                              ║
+║                                                               ║
+║  > SYSTEM ONLINE                                              ║
+║  > LOADING PROFILE...                                         ║
+║  > MARAT.EXE                                         [OK]     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<!--
-**okz-spec/okz-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `$ whoami`
+```bash
+marat@localhost:~$ cat /etc/profile
+-----------------------------------
+Name: Marat Matvejev
+Alias: @okz
+Role: Game Developer & Tech Enthusiast
+Interests: [Retro Gadgets, Coding, Game Dev]
+Status: Building cool stuff...
+-----------------------------------
+```
 
-Here are some ideas to get you started:
+### `$ ls ~/tech_stack`
+```
+📁 Languages/
+  ├── 🟨 JavaScript
+  ├── 🐍 Python
+  └── 🌙 Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Frameworks/
+  ├── ⚛️  React
+  ├── ▲  Next.js
+  └── 🟢 Node.js
+
+📁 Systems/
+  ├── 🐧 Linux
+  └── 🪟 Windows
+```
+
+### `$ cat ~/current_projects.log`
+```log
+[2025-05-10] >> GrowSoft API Documentation
+             >> Built with passion | VitePress + Vercel
+             >> https://growsoft-docs.okzzdev.me/
+
+[2025-11-05] >> Terris
+             >> Build your world. Grow your story.
+             >> LUA + NodeJS + Defold Engine
+```
+
+### `$ ./connect.sh`
+```bash
+[+] Establishing connections...
+
+🌐 Website     → https://okzzdev.me/
+📺 Twitch      → https://www.twitch.tv/okztw
+💬 Telegram    → https://t.me/okzzDev
+🐙 GitHub      → https://github.com/okz-spec
+
+[✓] All systems operational
+```
+
+---
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ "Code is poetry written in logic"                           │
+│                                        - okz.exe            │
+└─────────────────────────────────────────────────────────────┘
+```
+> █ TERMINAL READY
+```
