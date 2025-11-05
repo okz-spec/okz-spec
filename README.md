@@ -64,7 +64,7 @@ Status: Building cool stuff...
 ```bash
 [+] Establishing connections...
 
-🌐 Website     → https://okzzdev.me/
+🌐 Website     → https://okzzdev.me
 📺 Twitch      → https://www.twitch.tv/okztw
 💬 Telegram    → https://t.me/okzzDev
 🐙 GitHub      → https://github.com/okz-spec
