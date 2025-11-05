@@ -53,7 +53,7 @@ Status: Building cool stuff...
 ```log
 [2025-05-10] >> GrowSoft API Documentation
              >> Built with passion | VitePress + Vercel
-             >> https://growsoft-docs.okzzdev.me/
+             >> https://growsoft-docs.okzzdev.me
 
 [?]          >> Terris
              >> Build your world. Grow your story.
