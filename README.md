@@ -39,7 +39,7 @@ Status: Building cool stuff...
   └── 🌙 Lua
 
 📁 Frameworks/
-  ├── ⚛️  React
+  ├── ⚛️ React
   ├── ▲  Next.js
   └── 🟢 Node.js
 
