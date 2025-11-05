@@ -55,7 +55,7 @@ Status: Building cool stuff...
              >> Built with passion | VitePress + Vercel
              >> https://growsoft-docs.okzzdev.me/
 
-[2025-11-05] >> Terris
+[?] >> Terris
              >> Build your world. Grow your story.
              >> LUA + NodeJS + Defold Engine
 ```
