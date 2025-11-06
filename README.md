@@ -42,7 +42,9 @@ Status: Building cool stuff...
 📁 Frameworks/
   ├── ⚛️ React
   ├── ▲  Next.js
+  ├── 🕹️ Love2D
   └── 🟢 Node.js
+
 
 📁 Systems/
   ├── 🐧 Linux
