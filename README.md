@@ -60,10 +60,6 @@ Status: Building cool stuff...
 [?]          >> Terris
              >> Build your world. Grow your story.
              >> LUA + NodeJS + Defold Engine
-
-[?]          >> Cryptera
-             >> Trade cryptocurrency in real-time with chaotic prices.
-             >> NextJS + Supabase
 ```
 
 ### `$ ./connect.sh`
